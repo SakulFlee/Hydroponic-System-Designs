@@ -1,4 +1,4 @@
-# Wicked Hydro-Planter
+# Hydroponic System Design
 
 ## [Square Planter](square/)
 
